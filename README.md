@@ -1,7 +1,11 @@
 # FitLit!
 > Track and display your fitness data! (Or at least the data from these fake users we made up.)
 
-FitLit is a fake fitness and activity tracker app. It displays users' data for steps, stairs, active minutes, hours slept, sleep quality, and ounces of water consumed. It displays data in text/numeric form as well as in charts.
+FitLit is a faux fitness and activity tracker app. It displays users' data for steps taken, stairs climbed, number of active minutes, number of hours slept, a rating of sleep quality, and ounces of water consumed. It displays data in text/numeric form as well as in charts.
+
+After deciding on the overall look and feel for the app, my partner and I outlined the basic architecture and built out classes to hold their relevant data. We decided that narrowing down the data to a single user before passing it to classes would streamline the workflow, so any method that manipulates data for all users (i.e. all users' average sleep quality) are held in one class. We also built unit tests for every method utilizing test data.
+
+This project helped me understand and implement array iterator methods and also strengthened my knowledge of class structure.
 
 ## Getting started
 
