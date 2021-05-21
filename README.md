@@ -45,3 +45,9 @@ If you want to update our project so that it uses D3 instead of chartjs, go for 
 ## Creators
 
 This project was created as a mod2 paired project by Kelsie Besinger Yeh and Elsa Fluss. The spec sheet can be found at https://frontend.turing.io/projects/fitlit.html in case you are wondering why we have methods in the code that are never displayed.
+
+
+
+
+Note from Elsa, after graduating from Turing:
+I really enjoyed working with Kelsie on this project. I've continued to use a lot of her organization and planning ideas in other projects. We pair-coded almost every line in this project, which meant that we both understood everything we'd built. I'm proud of us for not giving up on some of the required functions - they were more complex than we'd ever seen before. I was also happy to get to implement ChartJS because I'm a big fan of data visualization.
